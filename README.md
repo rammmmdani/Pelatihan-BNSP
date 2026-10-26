@@ -1,1 +1,2 @@
-"first-day-pelatihan"
+Nama : Muhamad Ramdani
+first day pelatihan
